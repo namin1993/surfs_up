@@ -20,7 +20,7 @@ The differences between the weather in June and December are as follows:
 ![June Averages](https://github.com/namin1993/surfs_up/blob/9d52cc07338e8f79bac8ac8a7ec2afb6b937d9f5/Resources/June_average_temps.png)
 
 ## December Temperature Averages
-![December Averages](https://github.com/namin1993/surfs_up/blob/9d52cc07338e8f79bac8ac8a7ec2afb6b937d9f5/Resources/December_average_temps.png)
+![December Averages](https://github.com/namin1993/surfs_up/blob/2d9c284c7751ab0d6ca533af46b0ed84b2bd8edb/Resources/December_average_temps_fixed.png)
 
 ---
 ## Summary
