@@ -16,8 +16,11 @@ The differences between the weather in June and December are as follows:
 
 - The minimum temperature for June was 64.00 degrees F. For December, it was 56.00 degrees F.
 
-![Image 1]()
-![Image 2]()
+## June Temperature Averages 
+![June Averages](https://github.com/namin1993/surfs_up/blob/9d52cc07338e8f79bac8ac8a7ec2afb6b937d9f5/Resources/June_average_temps.png)
+
+## December Temperature Averages
+![December Averages](https://github.com/namin1993/surfs_up/blob/9d52cc07338e8f79bac8ac8a7ec2afb6b937d9f5/Resources/December_average_temps.png)
 
 ---
 ## Summary
